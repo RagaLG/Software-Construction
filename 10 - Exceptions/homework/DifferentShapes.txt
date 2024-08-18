@@ -1,0 +1,140 @@
+Shape: class session10.Circle
+  position: Position{x=45.0, y=100.0}
+  area: 0.8179903911435672
+  perimeter: 3.206114535398679
+  fill color: yellow
+  outline: black
+
+Shape: class session10.Circle
+  position: Position{x=69.0, y=111.0}
+  area: 2.9852100784776585
+  perimeter: 6.124806626161392
+  fill color: blue
+  outline: violet
+
+Shape: class session10.Circle
+  position: Position{x=97.0, y=139.0}
+  area: 0.5864415364793506
+  perimeter: 2.7146715622803717
+  fill color: green
+  outline: black
+
+Shape: class session10.Rectangle
+  position: Position{x=158.0, y=105.0}
+  area: 0.06961135424942766
+  perimeter: 2.0321441867293206
+  fill color: blue
+  outline: transparent
+
+Shape: class session10.Circle
+  position: Position{x=18.0, y=91.0}
+  area: 0.02244163792830266
+  perimeter: 0.5310460802984152
+  fill color: red
+  outline: transparent
+
+Shape: class session10.Circle
+  position: Position{x=154.0, y=1.0}
+  area: 0.04484657214071245
+  perimeter: 0.7507054324459013
+  fill color: red
+  outline: black
+
+Shape: class session10.Circle
+  position: Position{x=4.0, y=177.0}
+  area: 0.046907434180202004
+  perimeter: 0.7677605111472441
+  fill color: red
+  outline: black
+
+Shape: class session10.Circle
+  position: Position{x=34.0, y=188.0}
+  area: 0.03336555979013252
+  perimeter: 0.6475214205556178
+  fill color: green
+  outline: brown
+
+Shape: class session10.Rectangle
+  position: Position{x=28.0, y=197.0}
+  area: 0.5029307616474616
+  perimeter: 2.8489339653616033
+  fill color: yellow
+  outline: violet
+
+Shape: class session10.Circle
+  position: Position{x=169.0, y=152.0}
+  area: 1.3908136064310197
+  perimeter: 4.180607519715965
+  fill color: blue
+  outline: violet
+
+Shape: class session10.Circle
+  position: Position{x=182.0, y=117.0}
+  area: 0.6058506660880768
+  perimeter: 2.7592288790564545
+  fill color: yellow
+  outline: transparent
+
+Shape: class session10.Rectangle
+  position: Position{x=47.0, y=21.0}
+  area: 0.2928136195490777
+  perimeter: 2.1937899620351398
+  fill color: green
+  outline: brown
+
+Shape: class session10.Circle
+  position: Position{x=60.0, y=155.0}
+  area: 1.5441978046950415
+  perimeter: 4.405106345558267
+  fill color: blue
+  outline: violet
+
+Shape: class session10.Circle
+  position: Position{x=32.0, y=169.0}
+  area: 3.1139161598266956
+  perimeter: 6.2554475880167315
+  fill color: green
+  outline: transparent
+
+Shape: class session10.Rectangle
+  position: Position{x=25.0, y=127.0}
+  area: 0.09982712951412781
+  perimeter: 1.2967662323135043
+  fill color: red
+  outline: violet
+
+Shape: class session10.Circle
+  position: Position{x=102.0, y=97.0}
+  area: 1.9997940231399927
+  perimeter: 5.01299838890434
+  fill color: blue
+  outline: violet
+
+Shape: class session10.Rectangle
+  position: Position{x=81.0, y=47.0}
+  area: 0.21466706466141472
+  perimeter: 1.9829761682563114
+  fill color: red
+  outline: black
+
+Shape: class session10.Rectangle
+  position: Position{x=148.0, y=166.0}
+  area: 0.12226034412630689
+  perimeter: 1.4432653563822855
+  fill color: blue
+  outline: transparent
+
+Shape: class session10.Rectangle
+  position: Position{x=195.0, y=95.0}
+  area: 0.020586793422246532
+  perimeter: 1.36419051343055
+  fill color: blue
+  outline: violet
+
+Shape: class session10.Circle
+  position: Position{x=52.0, y=171.0}
+  area: 0.3573241876282429
+  perimeter: 2.119025288006567
+  fill color: red
+  outline: black
+

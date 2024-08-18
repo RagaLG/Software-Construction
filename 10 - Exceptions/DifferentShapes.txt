@@ -1,0 +1,14 @@
+Shape: class session10.Rectangle
+  position: Position{x=35.0, y=25.0}
+  area: 0.3414537279194187
+  perimeter: 2.359170899254603
+  fill color: yellow
+  outline: transparent
+
+Shape: class session10.Circle
+  position: Position{x=141.0, y=5.0}
+  area: 0.48817157209723316
+  perimeter: 2.4768013441469607
+  fill color: green
+  outline: black
+
